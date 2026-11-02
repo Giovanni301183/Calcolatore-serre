@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-verde-50: #f1f7f2;
+  --color-verde-100: #dcebdf;
+  --color-verde-600: #2f6b3a;
+  --color-verde-700: #255530;
+  --color-verde-800: #1c4125;
+  --font-sans: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background: #f5f6f4;
+  color: #1d2420;
+}
